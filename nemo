@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color:#99CC99;}
+h1   {color: orange;}
+p    {color: black;}
+</style>
+
+<title>Save Nemo</title>
+</head>
+<body>
+
+<h1 style="text-align:center;">Save Nemo</h1>
+<p style="color:Orange;">ONG para encontrar a Nemo</p>
+<h2>Nemo! <br> Tu familia te espera en casa</h2>
+<p> Te extrañamos :( </p>
+
+<p> Esta es una pagina web dedicada para todos aquellos marinos que velan por Nemo </p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAAthSZmysfpPgb_AT5IWvj-c3_mdRj0Jgvw&usqp=CAU" alt="La Ultima foto de Nemo" style="width:550px;height:500px;">
+<h3> Nemo </h3>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Ywqu3xGd6AE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
